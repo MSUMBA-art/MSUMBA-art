@@ -2,7 +2,7 @@
 
 <!--
 **MSUMBA-art/MSUMBA-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ..Achieving my goals
@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...WITH PEOPLE OF LIKE MINDED
 - 🤔 I’m looking for help with ...PROGRAMING AND NEW CONCEPTS
 - 💬 Ask me about ... ANYTHING
-- 📫 How to reach me: ... TEXT ME ON GITHUB THEN WE CAN TAKE IT FROM THERE
+- 📫 How to reach me: ... email: </i>msumba83@gmail.com</i> or <u>TEXT ME ON GITHUB THEN WE CAN TAKE IT FROM THERE</u>
 - 😄 Pronouns: ... AJ
-- ⚡ Fun fact: ... I AM A PEOPLES' PERSON, HARDWORKING AND MOTIVATED KIND OF BEING
--->
+- ⚡ Fun fact: ... <h1>I AM A PEOPLES' PERSON, HARDWORKING AND MOTIVATED KIND OF BEING</h1>
