@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...WITH PEOPLE OF LIKE MINDED
 - 🤔 I’m looking for help with ...PROGRAMING AND NEW CONCEPTS
 - 💬 Ask me about ... ANYTHING
-- 📫 How to reach me: ... email: </i>msumba83@gmail.com</i> or <u>TEXT ME ON GITHUB THEN WE CAN TAKE IT FROM THERE</u>
+- 📫 How to reach me: ... email: msumba83@gmail.com or TEXT ME ON GITHUB THEN WE CAN TAKE IT FROM THERE
 - 😄 Pronouns: ... AJ
 - ⚡ Fun fact: ... <h1>I AM A PEOPLES' PERSON, HARDWORKING AND MOTIVATED KIND OF BEING</h1>
