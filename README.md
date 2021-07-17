@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... ANYTHING
 - 📫 How to reach me: ... email: msumba83@gmail.com or TEXT ME ON GITHUB THEN WE CAN TAKE IT FROM THERE
 - 😄 Pronouns: ... AJ
-- ⚡ Fun fact: ... <h1 style="color:red;">I AM A PEOPLES' PERSON, HARDWORKING AND MOTIVATED KIND OF BEING</h1>
+- ⚡ Fun fact: ... <h3>I AM A PEOPLES' PERSON, HARDWORKING AND MOTIVATED KIND OF BEING</h3>
   
