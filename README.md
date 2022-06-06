@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... JavaScript
 - 💬 Ask me about ... ANYTHING
 - 📫 How to reach me: ... email: msumba83@gmail.com or TEXT ME ON GITHUB THEN WE CAN TAKE IT FROM THERE
+TECH STACK: PERN (PostgreSQL, Express, React.js, Node.js)
+Knowladge of HTML, CSS/Bootstrap, JavaScript, React.js, Node.js, PostgreSQL, MySQL, MongoDB
 - 😄 Pronouns: ... AJ
 - ⚡ Fun fact: ... <h4>I AM A PEOPLES' PERSON, HARDWORKING AND MOTIVATED KIND OF BEING</h4>
   
