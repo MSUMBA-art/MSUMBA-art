@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ..Achieving my goals
+- Portfolio is still in progress,....  https://portfolio-alexander.netlify.app/
 - 🌱 I’m currently learning ...FULL-STACK WEB DEV
 - 👯 I’m looking to collaborate on ...WITH PEOPLE OF LIKE MINDED
 - 🤔 I’m looking for help with ... JavaScript
