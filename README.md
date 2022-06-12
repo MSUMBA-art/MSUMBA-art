@@ -8,7 +8,8 @@
 - Some few projects so far https://loveyourcity.netlify.app/
 - Another project https://alexander-msumba.netlify.app/
 - THERE ARE ALOT OF PROJECTS, 
-- <h3>Portfolio is still in progress,.... watch the progress</h3> ✍✍👉👉 https://alexander-msumba-portfolio.netlify.app/ 
+- <h3>Portfolio is still in progress,.... watch the progress bellow link</h3> 
+- <p>✍✍👉👉 https://alexander-msumba-portfolio.netlify.app/ </p>
 - 🌱 Looking for work as Junior Dev or Intern
 - 👯 I’m looking to collaborate on ...WITH PEOPLE OF LIKE MINDED
 - 🤔 Scrum/Agile, Adaptive and Team player
