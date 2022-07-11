@@ -3,13 +3,9 @@
 <!--
 **MSUMBA-art/MSUMBA-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<h1>PORTFOLIO: https://alexander-web-portfolio.netlify.app/<h1>
 
 - 🔭 I’m currently working on ..Achieving my goals
-- Some few projects so far https://loveyourcity.netlify.app/
-- Another project https://alexander-msumba.netlify.app/
-- THERE ARE ALOT OF PROJECTS, 
-- <h3>Portfolio is still in progress,.... watch the progress bellow link</h3> 
-- <p>✍✍👉👉 https://alexander-msumba-portfolio.netlify.app/ </p>
 - 🌱 Looking for work as Junior Dev or Intern
 - 👯 I’m looking to collaborate on ...WITH PEOPLE OF LIKE MINDED
 - 🤔 Scrum/Agile, Adaptive and Team player
