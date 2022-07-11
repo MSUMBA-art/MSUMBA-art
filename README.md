@@ -3,7 +3,7 @@
 <!--
 **MSUMBA-art/MSUMBA-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://alexander-web-portfolio.netlify.app/" target="_blank"> MY PORTFOLIO</a>
+<a href="https://alexander-web-portfolio.netlify.app/" target="_blank"> MY PORTFOLIO LINK</a>
 
 - 🔭 I’m currently working on ..Achieving my goals
 - 🌱 Looking for work as Junior Dev or Intern
