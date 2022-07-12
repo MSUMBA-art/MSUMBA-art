@@ -1,5 +1,7 @@
 ### Hi there 👋,, It's Alexander
 
+<h1><a href="https://aj-msumba-portfolio.netlify.app/">MY PORTFOLIO</a>
+
 # # 💫 About Me:
 I’m currently working on ..Achieving my goals<br>Looking for work as Junior Dev or Intern<br> I’m looking to collaborate on ...WITH PEOPLE OF LIKE MINDED<br>Scrum/Agile, Adaptive and Team player<br>Ask me about ... ANYTHING<br><br>How to reach me: ... email: msumba83@gmail.com TECH STACK: PERN (PostgreSQL, Express, React.js, Node.js) Knowladge of HTML, CSS/Bootstrap, JavaScript, React.js, Node.js, PostgreSQL, MySQL, MongoDB<br>😄 Pronouns: ... AJ<br>⚡ Fun fact: ...<br>I AM A PEOPLES' PERSON, HARDWORKING AND MOTIVATED KIND OF BEING
 
